@@ -1,0 +1,5 @@
+C:\Users\maksc\RiderProjects\Task3V24\Task3V24\bin\Debug\Task3V24.exe
+C:\Users\maksc\RiderProjects\Task3V24\Task3V24\bin\Debug\Task3V24.pdb
+C:\Users\maksc\RiderProjects\Task3V24\Task3V24\obj\Debug\Task3V24.csprojResolveAssemblyReference.cache
+C:\Users\maksc\RiderProjects\Task3V24\Task3V24\obj\Debug\Task3V24.exe
+C:\Users\maksc\RiderProjects\Task3V24\Task3V24\obj\Debug\Task3V24.pdb
